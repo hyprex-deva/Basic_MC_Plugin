@@ -1,0 +1,7 @@
+name: Test
+version: '${project.version}'
+main: plugin.test.test.Test
+api-version: 1.19
+authors: [ HyprexDeva ]
+description: Test Plugin
+website: https://github.com/hyprex-deva
